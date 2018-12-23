@@ -1,27 +1,27 @@
 {
-  "name": "ravencoin-txdecoder",
-  "version": "1.0.0",
-  "description": "transaction decode hex string",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "MSFTserver",
+  "bugs": {
+    "url": "https://github.com/raven-community/node-ravencoin-txdecoder/issues"
   },
   "dependencies": {
     "ravencoinjs-lib": "github:raven-community/ravencoinjs-lib#master"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/raven-community/node-bitcoin-txdecoder.git"
-  },
+  "description": "transaction decode hex string",
+  "homepage": "https://github.com/raven-community/node-ravencoin-txdecoder#readme",
   "keywords": [
     "ravencoin",
     "transaction",
     "rawtx"
   ],
-  "author": "MSFTserver",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/raven-community/node-bitcoin-txdecoder/issues"
+  "main": "index.js",
+  "name": "ravencoin-txdecoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raven-community/node-ravencoin-txdecoder.git"
   },
-  "homepage": "https://github.com/raven-community/node-bitcoin-txdecoder#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
