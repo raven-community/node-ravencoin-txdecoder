@@ -4,7 +4,7 @@
     "url": "https://github.com/raven-community/node-ravencoin-txdecoder/issues"
   },
   "dependencies": {
-    "ravencoinjs-lib": "github:raven-community/ravencoinjs-lib#master"
+    "ravencoinjs-lib": "github:raven-community/ravencoinjs-lib/tree/1.0.0"
   },
   "description": "transaction decode hex string",
   "homepage": "https://github.com/raven-community/node-ravencoin-txdecoder#readme",
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
